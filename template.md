@@ -3,7 +3,7 @@
 **Datum:** `[dd/mm/yyyy]`  
 **Studentnaam:** `[Naam]`  
 **Groepsnaam:** `[Groep]`
-
+    
 ---
 
 ## 1) Wat heb ik vandaag gedaan voor mijn project?
